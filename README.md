@@ -10,7 +10,7 @@ const Aboutme = {
 ```
 I am a software developer learning multimedia engineering. Some technologies that I enjoy working with include Python, JavaScript, C, C #, HTML, CSS.
 
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FabianMosquera)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Find me around the web 🌎:
 <!--
