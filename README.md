@@ -1,5 +1,4 @@
-### Hi there 👋
-
+# Hi, I'm Ricky 👋🏾 👩🏾‍💻
 ![header](/Images/¡Welcome!.png)
 
 ```JS
@@ -9,6 +8,11 @@ const Aboutme = {
  challenge: "I am learning to use all the unity tools"
 }
 ```
+I am a software developer learning multimedia engineering. Some technologies that I enjoy working with include Python, JavaScript, C, C #, HTML, CSS.
+
+
+
+## Find me around the web 🌎:
 <!--
 **FabianMosquera/FabianMosquera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
