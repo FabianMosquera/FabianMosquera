@@ -15,6 +15,6 @@ I'm a software developer learning multimedia engineering. Some technologies that
 ## Find me around the web 🌎:
 
 <p width="100%" align="center">
-<a padding="30px" href="https://www.linkedin.com/in/fabian-mosquera-631a5a1a1/" target="_blank"><img width="30" height="30" src="./icons/linkedin-icon.svg"></a>&nbsp;&nbsp;&nbsp;
-<a padding="30px" href="https://twitter.com/MosqueraR98" target="_blank"><img width="30" height="30" src="./icons/twitter-icon.svg"></a>&nbsp;&nbsp;&nbsp;
+<a padding="30px" href="https://www.linkedin.com/in/fabian-mosquera-631a5a1a1/" target="_blank"><img width="30" height="30" src="./icons/linkedin.png"></a>&nbsp;&nbsp;&nbsp;
+<a padding="30px" href="https://twitter.com/MosqueraR98" target="_blank"><img width="30" height="30" src="./icons/twitter.png"></a>&nbsp;&nbsp;&nbsp;
 </p>
